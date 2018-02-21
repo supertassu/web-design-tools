@@ -3,7 +3,7 @@ A list of useful web design tools.
 <hr>
 This list is purely my preference; there might be better tools. (if so, let me know. thanks!)
 
-## Editor of Choise
+## Editor of Choice
 
 [Webstorm](https://jetbrains.com/webstorm/): Jetbrains's IDE for web. PhpStorm works too, I just prefer Webstorm for non-php-projects, idk why.
 
